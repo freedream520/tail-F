@@ -8,6 +8,6 @@ Tail file on pyinotify, likes tail -F command
 python tail.py </path/to/filename>
 ```
 
-# requirement
+# requirements
 
 * [pyinotify](https://github.com/seb-m/pyinotify) ( pip install pyinotify )
